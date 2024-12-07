@@ -14,7 +14,7 @@ BookRec is an AI-powered book recommendation system that leverages **collaborati
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ysaidurpulok/BookRec.git
+git clone https://github.com/saidurpulok/BookRec.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ---
 
 ## 📊 Dataset
-The project uses the **Goodreads Books 100K Dataset**. You can download it from Kaggle using this [link](https://www.kaggleusercontent.com/mdhamani/goodreads-books-100k/). Once downloaded, place the dataset files in the `Dataset/` directory.
+The project uses the **Goodreads Books 100K Dataset**. You can download it from Kaggle using this [link](https://www.kaggle.com/datasets/mdhamani/goodreads-books-100k/). Once downloaded, place the dataset files in the `Dataset/` directory.
 
 ---
 
@@ -71,7 +71,7 @@ This will start the application and give you a link to access it in your default
 ---
 
 ## 🔗 Links
-- [Dataset - Goodreads Books 100K on Kaggle](https://www.kaggleusercontent.com/mdhamani/goodreads-books-100k/)
+- [Dataset - Goodreads Books 100K on Kaggle](https://www.kaggle.com/datasets/mdhamani/goodreads-books-100k/)
 <!-- - [Streamlit Demo Link](#) -->
 
 ---
