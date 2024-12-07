@@ -1,0 +1,52 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset and models
+Models/*.npy
+Dataset/*.csv
+
+# Environment and dependencies
+.env
+*.log
+*.json
+*.yaml
+*.yml
+*.zip
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Papermill output
+*.ipynb_out
+
+# Miscellaneous
+.idea/
+.vscode/
+node_modules/
+*.bak
+*.old
+*.orig
