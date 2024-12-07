@@ -3,6 +3,8 @@
 ## Overview
 BookRec is an AI-powered book recommendation system that leverages **collaborative filtering** (using NCF), **cosine similarity**, and **text-based embeddings** (via TextCNN) to suggest personalized book recommendations based on user preferences and book descriptions.
 
+![screenshot](Images/app_ss01.png)
+
 ## Features
 - **Hybrid Recommendation System**: Combines collaborative filtering, cosine similarity, and deep learning techniques.
 - **User-Driven Interface**: Allows users to select a book and generate personalized recommendations.
@@ -83,6 +85,7 @@ This project is built using machine learning models and NLP techniques, primaril
 
 ### 🧑‍💻 Author
 Saidur Rahman Pulok
+
 [LinkedIn Profile](https://www.linkedin.com/in/mdsaidurrahmanpulok)  
 [Personal Website](https://saidurpulok.github.io)
 
